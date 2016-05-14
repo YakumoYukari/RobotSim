@@ -1,0 +1,17 @@
+c:\users\lukez_000\documents\visual studio 2013\Projects\RobotSim\RobotSim\bin\Debug\RobotSim.exe.config
+c:\users\lukez_000\documents\visual studio 2013\Projects\RobotSim\RobotSim\obj\Debug\RobotSim.csprojResolveAssemblyReference.cache
+c:\users\lukez_000\documents\visual studio 2013\Projects\RobotSim\RobotSim\obj\Debug\RobotSim.Form1.resources
+c:\users\lukez_000\documents\visual studio 2013\Projects\RobotSim\RobotSim\obj\Debug\RobotSim.Properties.Resources.resources
+c:\users\lukez_000\documents\visual studio 2013\Projects\RobotSim\RobotSim\obj\Debug\RobotSim.csproj.GenerateResource.Cache
+c:\users\lukez_000\documents\visual studio 2013\Projects\RobotSim\RobotSim\bin\Debug\RobotSim.exe
+c:\users\lukez_000\documents\visual studio 2013\Projects\RobotSim\RobotSim\bin\Debug\RobotSim.pdb
+c:\users\lukez_000\documents\visual studio 2013\Projects\RobotSim\RobotSim\obj\Debug\RobotSim.exe
+c:\users\lukez_000\documents\visual studio 2013\Projects\RobotSim\RobotSim\obj\Debug\RobotSim.pdb
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\RobotSim\RobotSim\bin\Debug\AForge.dll
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\RobotSim\RobotSim\bin\Debug\AForge.Genetic.dll
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\RobotSim\RobotSim\bin\Debug\AForge.Math.dll
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\RobotSim\RobotSim\bin\Debug\AForge.Neuro.dll
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\RobotSim\RobotSim\bin\Debug\AForge.xml
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\RobotSim\RobotSim\bin\Debug\AForge.Genetic.xml
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\RobotSim\RobotSim\bin\Debug\AForge.Math.xml
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\RobotSim\RobotSim\bin\Debug\AForge.Neuro.xml
